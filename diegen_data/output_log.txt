@@ -1,0 +1,145 @@
+Initialize engine version: 5.4.0f3 (a6d8d714de6f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     2154 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: A:\phd\diegeon_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading A:\phd\diegeon_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: A:\phd\diegeon_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading A:\phd\diegeon_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: A:\phd\diegeon_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading A:\phd\diegeon_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: A:\phd\diegeon_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading A:\phd\diegeon_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: A:\phd\diegeon_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading A:\phd\diegeon_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: A:\phd\diegeon_Data\Managed\Pathfinding.JsonFx.dll (this message is harmless)
+Loading A:\phd\diegeon_Data\Managed\Pathfinding.JsonFx.dll into Unity Child Domain
+- Completed reload, in  0.423 seconds
+Platform assembly: A:\phd\diegeon_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: A:\phd\diegeon_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.414600 ms
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.510800 ms
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 1305.
+Total: 0.838200 ms (FindLiveObjects: 0.079000 ms CreateObjectMapping: 0.051500 ms MarkObjects: 0.612600 ms  DeleteObjects: 0.078000 ms)
+
+save at slot 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+save at slot 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+save at slot 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+save at slot 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+save at slot 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+save at slot 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+save at slot 6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+save at slot 7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.499000 ms
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 3918.
+Total: 2.220000 ms (FindLiveObjects: 0.402500 ms CreateObjectMapping: 0.315800 ms MarkObjects: 1.449800 ms  DeleteObjects: 0.050800 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.916500 ms
+
+Unloading 74 unused Assets to reduce memory usage. Loaded Objects now: 3870.
+Total: 2.295300 ms (FindLiveObjects: 0.335300 ms CreateObjectMapping: 0.155000 ms MarkObjects: 1.734900 ms  DeleteObjects: 0.068900 ms)
+
+save at slot 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+save at slot 9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+save at slot 10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+save at slot 11
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+save at slot 12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.980800 ms
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 4055.
+Total: 1.120500 ms (FindLiveObjects: 0.225400 ms CreateObjectMapping: 0.094000 ms MarkObjects: 0.774000 ms  DeleteObjects: 0.026500 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.333400 ms
+
+Unloading 74 unused Assets to reduce memory usage. Loaded Objects now: 4007.
+Total: 5.450000 ms (FindLiveObjects: 0.851300 ms CreateObjectMapping: 0.446200 ms MarkObjects: 4.012600 ms  DeleteObjects: 0.137600 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.442400 ms
+
+Unloading 41 unused Assets to reduce memory usage. Loaded Objects now: 1113.
+Total: 1.490400 ms (FindLiveObjects: 0.125500 ms CreateObjectMapping: 0.152600 ms MarkObjects: 1.151800 ms  DeleteObjects: 0.059300 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.011100 ms
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 1286.
+Total: 2.268900 ms (FindLiveObjects: 0.237600 ms CreateObjectMapping: 0.148900 ms MarkObjects: 1.452800 ms  DeleteObjects: 0.428100 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Player.SetAttack (Int32 a) [0x00000] in <filename unknown>:0 
+  at DiceMenu.UpdateStats () [0x00000] in <filename unknown>:0 
+  at DiceMenu.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+error:Could not resolve host: 6bit.uqcloud.net
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+ArgumentOutOfRangeException: Index is less than 0 or more than or equal to the list count.
+Parameter name: index
+0
+  at System.Collections.ArrayList.ThrowNewArgumentOutOfRangeException (System.String name, System.Object actual, System.String message) [0x00000] in <filename unknown>:0 
+  at System.Collections.ArrayList.get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at GameManager.isLevelEndRoom () [0x00000] in <filename unknown>:0 
+  at GameManager.LateUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 4444 -> priority: 1 
